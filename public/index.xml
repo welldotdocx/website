@@ -1,12 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Terminal</title>
-    <link>/</link>
-    <description>Recent content on Terminal</description>
-    <generator>Hugo</generator>
+    <title>Razael</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Razael</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>contact@elfx.my.id (Razael Saputra)</managingEditor>
+    <webMaster>contact@elfx.my.id (Razael Saputra)</webMaster>
+    
+    <lastBuildDate>Mon, 21 Jul 2025 21:54:41 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>I Need to Stop</title>
+      <link>//localhost:1313/posts/i-need-to-stop/</link>
+      <pubDate>Mon, 21 Jul 2025 21:54:41 +0000</pubDate>
+      <author>contact@elfx.my.id (Razael Saputra)</author>
+      <guid>//localhost:1313/posts/i-need-to-stop/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/i-need-to-stop/featured.jpg" />
+    </item>
+    
   </channel>
 </rss>
