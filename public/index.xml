@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Terminal</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Terminal</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 21 Jul 2025 07:46:26 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Index</title>
+      <link>//localhost:1313/posts/</link>
+      <pubDate>Mon, 21 Jul 2025 07:46:26 +0000</pubDate>
+      <guid>//localhost:1313/posts/</guid>
+      <description>&lt;h1 id=&#34;hello-world&#34;&gt;Hello World!&lt;/h1&gt;&#xA;&lt;p&gt;look mom this is my website :D&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
