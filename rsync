@@ -1,0 +1,8 @@
+#!/bin/bash
+
+# Ganti dengan path sumber dan tujuan Anda
+SOURCE="/storage/emulated/0/Documents/Razael/posts/"
+DEST="/data/data/com.termux/files/home/website/content/posts"
+
+# Jalankan rsync
+rsync -av --delete "$SOURCE" "$DEST"

@@ -58,7 +58,7 @@ layoutBackgroundBlur = true # only used when layout equals background
 disableHeroImageFilter = false # only used when layout equals hero
 
 [article]
-showDate = false
+showDate = true
 showViews = false
 showLikes = false
 showDateOnlyInArticle = true

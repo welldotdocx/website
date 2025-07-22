@@ -9,16 +9,16 @@
     <managingEditor>contact@elfx.my.id (Razael Saputra)</managingEditor>
     <webMaster>contact@elfx.my.id (Razael Saputra)</webMaster>
     
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 22 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>I need to stop...</title>
-      <link>http://localhost:1313/posts/i-need-to-stop/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Minecraft Server</title>
+      <link>http://localhost:1313/posts/minecraft-server/</link>
+      <pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate>
       <author>contact@elfx.my.id (Razael Saputra)</author>
-      <guid>http://localhost:1313/posts/i-need-to-stop/</guid>
+      <guid>http://localhost:1313/posts/minecraft-server/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/i-need-to-stop/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/minecraft-server/featured.png" />
     </item>
     
   </channel>
