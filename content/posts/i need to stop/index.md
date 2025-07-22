@@ -1,5 +1,4 @@
 ---
-date: 2025-07-22
 draft: false
 title: I need to stop...
 tags:
