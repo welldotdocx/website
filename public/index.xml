@@ -9,7 +9,17 @@
     <managingEditor>contact@elfx.my.id (Razael Saputra)</managingEditor>
     <webMaster>contact@elfx.my.id (Razael Saputra)</webMaster>
     
-    <lastBuildDate>Tue, 22 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Discord Tools</title>
+      <link>http://localhost:1313/posts/discord-tools/</link>
+      <pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate>
+      <author>contact@elfx.my.id (Razael Saputra)</author>
+      <guid>http://localhost:1313/posts/discord-tools/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Minecraft Server</title>
@@ -19,6 +29,16 @@
       <guid>http://localhost:1313/posts/minecraft-server/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/minecraft-server/featured.png" />
+    </item>
+    
+    <item>
+      <title>Which one should I choose?</title>
+      <link>http://localhost:1313/posts/choose/</link>
+      <pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate>
+      <author>contact@elfx.my.id (Razael Saputra)</author>
+      <guid>http://localhost:1313/posts/choose/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/choose/featured.jpg" />
     </item>
     
   </channel>

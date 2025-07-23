@@ -15,4 +15,5 @@ tags:
 - [Vault](https://www.spigotmc.org/resources/vault.34315/)
 - [LuckPerms](https://luckperms.net/download)
 - [Citizens Dev Build](https://ci.citizensnpcs.co/job/citizens2/)
+---
 > More will be added later...

@@ -94,7 +94,7 @@ showHero = false
 # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
 layoutBackgroundBlur = false # only used when heroStyle equals background or thumbAndBackground
 layoutBackgroundHeaderSpace = false # only used when heroStyle equals background
-showBreadcrumbs = false
+showBreadcrumbs = true
 showSummary = false
 showViews = false
 showLikes = false
@@ -122,7 +122,7 @@ cardView = false
 [term]
 showHero = false
 # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
-showBreadcrumbs = false
+showBreadcrumbs = true
 showViews = false
 showLikes = false
 showTableOfContents = true

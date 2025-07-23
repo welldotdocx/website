@@ -9,16 +9,16 @@
     <managingEditor>contact@elfx.my.id (Razael Saputra)</managingEditor>
     <webMaster>contact@elfx.my.id (Razael Saputra)</webMaster>
     
-    <atom:link href="http://localhost:1313/tags/tag1/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/tag1/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>I need to stop...</title>
-      <link>http://localhost:1313/posts/i-need-to-stop/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Discord Tools</title>
+      <link>http://localhost:1313/posts/discord-tools/</link>
+      <pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate>
       <author>contact@elfx.my.id (Razael Saputra)</author>
-      <guid>http://localhost:1313/posts/i-need-to-stop/</guid>
+      <guid>http://localhost:1313/posts/discord-tools/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/i-need-to-stop/featured.jpg" />
+      
     </item>
     
   </channel>
